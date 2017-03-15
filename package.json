@@ -1,0 +1,25 @@
+{
+  "name": "binary-search-algorithm",
+  "version": "1.0.0",
+  "description": "a binary search algorithm",
+  "main": "app/bsalib.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "jasmine": "^2.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jasmine test/bsatest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "akande oladimeji",
+  "license": "ISC"
+}
